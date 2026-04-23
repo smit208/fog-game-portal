@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#0f0f17"/>
+  <!-- Controller body -->
+  <rect x="5" y="11" width="22" height="13" rx="4" fill="#7c3aed"/>
+  <!-- D-pad horizontal -->
+  <rect x="9" y="16" width="7" height="2.5" rx="1" fill="#0f0f17" opacity="0.7"/>
+  <!-- D-pad vertical -->
+  <rect x="11.5" y="13.5" width="2.5" height="7" rx="1" fill="#0f0f17" opacity="0.7"/>
+  <!-- Right buttons -->
+  <circle cx="22" cy="15" r="1.2" fill="#10b981"/>
+  <circle cx="24.5" cy="17.5" r="1.2" fill="#f59e0b"/>
+  <circle cx="19.5" cy="17.5" r="1.2" fill="#dc2626"/>
+  <circle cx="22" cy="20" r="1.2" fill="#0ea5e9"/>
+</svg>
