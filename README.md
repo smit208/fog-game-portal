@@ -2,8 +2,8 @@
 
 A two-module React application built for the FOG SDE Internship Round 1 assessment. The goal was to demonstrate UI engineering depth, game logic implementation, and attention to UX detail.
 
-**Live URL:** https://fog-game-portal.vercel.app ← _update after deploy_
-**GitHub:** https://github.com/smitprajapati/fog-game-portal ← _update with your username_
+**Live URL:** https://foggameportal.vercel.app
+**GitHub:** https://github.com/smit208/fog-game-portal
 **Candidate:** Smit Prajapati
 
 ---
